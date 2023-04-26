@@ -22,5 +22,6 @@ let questoes: [Questao] = [
         Questao(titulo: "Qual é o primeiro filme do Universo Cinematográfico Marvel (MCU)?", respostas: ["Homem de Ferro", "Capitão América: O Primeiro Vingador", "Thor"], respostaCorreta: 0),
         Questao(titulo: "Qual é o personagem principal de The Office, interpretado por Steve Carell?", respostas: ["Michael Scott", "Jim Halpert", "Dwight Schrute"], respostaCorreta: 0),
         Questao(titulo: "Qual é o trabalho de Jay Pritchett na série Modern Family?", respostas: ["Médico", "Empresário", "Advogado"], respostaCorreta: 1),
+    Questao(titulo: "Em 007 Cassino Royale, o que James Bond utiliza quando percebe que foi envenenado", respostas: ["Vodka", "Antídoto", "Sal"], respostaCorreta: 2)
 ]
 
